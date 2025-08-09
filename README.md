@@ -29,7 +29,7 @@ For complete setup instructions and documentation, visit the [official TaikoHub 
    # Size small (3 keyed-thumb cluster)
    git checkout small
    ```
-4. Open the `config/dactyl_manuform_5x6.keymap` to edit the keyboard layout.
+4. Open the `config/dactyl_manuform_5x7.keymap` to edit the keyboard layout.
    ```bash
    cd zmk-config
    code config/dactyl_manuform_5x7.keymap
