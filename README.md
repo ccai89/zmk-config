@@ -32,7 +32,7 @@ For complete setup instructions and documentation, visit the [official TaikoHub 
 4. Open the `config/dactyl_manuform_5x6.keymap` to edit the keyboard layout.
    ```bash
    cd zmk-config
-   code config/dactyl_manuform_5x6.keymap
+   code config/dactyl_manuform_5x7.keymap
    ```
 5. Once you are done, commit and push the change.
    ```bash
